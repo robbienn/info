@@ -1,0 +1,23 @@
+#GIT commands 
+git clone git@github.com:robbienn/info.git info
+
+git checkout -b work
+
+git log
+
+git status
+
+git add FILE
+
+git commit -m "COMMIT MSG"
+
+git checkout master
+
+git branch -a
+
+git merge work
+
+git push
+
+
+
