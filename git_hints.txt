@@ -19,5 +19,6 @@ git merge work
 
 git push
 
+git pull
 
 
